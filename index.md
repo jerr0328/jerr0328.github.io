@@ -38,7 +38,8 @@ Redis to cache the weather data, with the data coming from OpenWeatherMap. In
 ### [Planet Gallery Grabber](https://github.com/jerr0328/pl-gallery-grabber)
 
 I wrote a small Python program to get the latest images from the
-[Planet gallery](https://www.planet.com/gallery/).
+[Planet gallery](https://www.planet.com/gallery/). This is very useful for
+populating a folder of desktop background images.
 
 ## Work Experience
 
@@ -97,3 +98,24 @@ Some key tasks included:
 * Update Linux projects to build shared-object and static libraries
 * Demo hardware and software to customers
 * Coordinate with different departments to get documents prepared for conference
+
+## Interests
+
+* Technical Theatre - Lead theatre tech in high school, trained students in lighting, sound, rigging, and overall theatre upkeep and safety. Focused on stage lighting. Continued in college in working alongside professionals to set up and support concerts and live comedy.
+* Amateur Radio - License amateur radio operator in US as General class. Became president of the Amateur Radio Club at UCF.
+* Hardware - Worked in embedded development before, like to play with Arudino and Raspberry Pi.
+* Avionics - Running ADS-B receiver to feed data into FlightAware.
+* Spaceflight - Besides working for the largest private operator of satellites, I attended many launches in Florida and had semi-private tours of space launch facilities at Cape Canaveral/Kennedy Space Center.
+* Digital Forensics - Took Master-level class in Digital Forensics at UCF, took Cybersecurity specialization on Coursera.
+* Martial Arts - Practiced martial arts in middle and high school. Resumed in summer 2017 by attending Taekwon-Do classes in Berlin.
+
+## Links
+
+### Connect
+* [Twitter - Jerr](https://twitter.com/Jerr)
+* [GitHub - jerr0328](https://github.com/jerr0328)
+* [LinkedIn](https://www.linkedin.com/in/jmayeres/)
+* [Blogspot (outdated)](https://jeremymayeres.blogspot.de/)
+
+### News
+* [UCF News - Junior Works on Ballistic Missile Program](https://today.ucf.edu/junior-works-on-ballistic-missile-program/)
