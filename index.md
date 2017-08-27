@@ -109,6 +109,25 @@ Some key tasks included:
 * Digital Forensics - Took Master-level class in Digital Forensics at UCF, took Cybersecurity specialization on Coursera.
 * Martial Arts - Practiced martial arts in middle and high school. Resumed in summer 2017 by attending Taekwon-Do classes in Berlin.
 
+## Volunteering
+
+* [Berliner Tafel](http://www.berliner-tafel.de/berliner-tafel/) - Sorted unwanted food
+* [Berliner Obdachlosenhilfe](http://www.berliner-obdachlosenhilfe.de/) - Prepared and distributed food for the homeless
+* Habitat for Humanity - Helped build homes in Melbourne, FL
+* Harris High School Design Challenge - Get students involved with Science, Technology, Engineering, and Math (STEM) in local high schools. The design challenge consists of teams of high school students creating a mobile application to solve certain challenges. My responsibilites included updating the Android framework, judging preliminary presentations by the students, and being a "dispatcher" during the actual competition.
+
+## Education
+
+### University of Central Florida
+_August 2008 - May 2012 in Orlando, FL_
+
+Graduated with Bachelor of Science in Computer Science, Magna Cum Laude with University Honors, from Burnett Honors College with Legal Studies minor. GPA: 3.9/4.0
+
+### Suncoast Community High School
+_August 2004 - May 2008 in Riviera Beach, FL_
+
+Attended in Computer Science and International Baccalaureate programs. Took AP, IB, and college-level courses. Placed 1st in Palm Beach County Programming Competition Team.
+
 ## Links
 
 ### Connect
