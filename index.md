@@ -26,6 +26,20 @@ I've used Linux and Mac heavily for development, first learning Linux when I
 was in middle school. I like using the Fish shell, though I still end up having
 to write a lot of Bash scripts.
 
+## Projects
+
+### [Is it Snowing in Berlin](https://github.com/jerr0328/isitsnowinginberlin)
+
+I made [isitsnowinginberlin.de](http://isitsnowinginberlin.de) as a side project
+to experiment with Node.js and play with deploying something to Heroku. It uses
+Redis to cache the weather data, with the data coming from OpenWeatherMap. In
+2017 I rewrote the app in Python using Flask.
+
+### [Planet Gallery Grabber](https://github.com/jerr0328/pl-gallery-grabber)
+
+I wrote a small Python program to get the latest images from the
+[Planet gallery](https://www.planet.com/gallery/).
+
 ## Work Experience
 
 ### Planet Labs Germany (Sep 2014 - Present)
