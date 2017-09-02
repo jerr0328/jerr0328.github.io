@@ -125,7 +125,7 @@ Also updated ActiveX interface to the RFID SDK and provided direction to resolvi
 * [Berliner Tafel](http://www.berliner-tafel.de/berliner-tafel/) - Sorted unwanted food
 * [Berliner Obdachlosenhilfe](http://www.berliner-obdachlosenhilfe.de/) - Prepared and distributed food for the homeless
 * Habitat for Humanity - Helped build homes in Melbourne, FL
-* Harris High School Design Challenge - Get students involved with Science, Technology, Engineering, and Math (STEM) in local high schools. The design challenge consists of teams of high school students creating a mobile application to solve certain challenges. My responsibilites included updating the Android framework, judging preliminary presentations by the students, and being a "dispatcher" during the actual competition.
+* Harris High School Design Challenge - Get students involved with Science, Technology, Engineering, and Math (STEM) in local high schools. The design challenge consists of teams of high school students creating a mobile application to solve certain challenges. My responsibilities included updating the Android framework, judging preliminary presentations by the students, and being a "dispatcher" during the actual competition.
 
 ## Education
 
