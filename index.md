@@ -3,8 +3,9 @@
 ## About Me
 
 I'm a software engineer living in Berlin. I'm currently the Data Pipeline squad
-lead at Planet. I'm originally from Belgium, although I grew up in Florida. In
-high school I did the International Baccalaureate and Computer Science programs.
+lead at Planet. I'm originally from Belgium, although I grew up in Florida.
+I have dual United States and Belgian citizenships.
+In high school I did the International Baccalaureate and Computer Science programs.
 I then studied Computer Science at the University of Central Florida in Orlando,
 with a minor in Legal Studies. During that time, I was an intern at Lockheed
 Martin in Cape Canaveral. I graduated in May 2012 with Honors. I then worked for
@@ -137,6 +138,14 @@ Graduated with Bachelor of Science in Computer Science, Magna Cum Laude with Uni
 _August 2004 - May 2008 in Riviera Beach, FL_
 
 Attended in Computer Science and International Baccalaureate programs. Took AP, IB, and college-level courses. Placed 1st in Palm Beach County Programming Competition Team.
+
+## Languages
+
+Language | Proficiency
+---------|------------
+English  | Fluent
+French   | Fluent
+German   | A2 Level
 
 ## Links
 
