@@ -41,9 +41,13 @@ I wrote a small Python program to get the latest images from the
 [Planet gallery](https://www.planet.com/gallery/). This is very useful for
 populating a folder of desktop background images.
 
+### [Awesome Geospatial List](https://github.com/jerr0328/awesome-geospatial-list)
+
+Curating some awesome geospatial links.
+
 ## Work Experience
 
-### Planet Labs Germany (Sep 2014 - Present)
+### [Planet Labs Germany](https://www.planet.com) - Squad Lead, Senior Software Engineer (Sep 2014 - Present)
 
 I started at BlackBridge in Berlin in September 2014 as a software developer for
 the RapidEye data pipeline, mostly working with C++, with some Java and Python.
@@ -66,7 +70,7 @@ Some key tasks included:
 * Develop tool to process and upload hundreds of terabytes of RapidEye archive data to the cloud
 * Lead the development of the SkySat data processor to bring pre-processed high-resolution (<1m GSD) data to our customers for the first time
 
-### Harris Corporation (May 2012 - July 2014)
+### [Harris Corporation](https://www.harris.com/) - Software Engineer Level 2 (May 2012 - July 2014)
 
 I started at Harris in Palm Bay, Florida in May 2012 as an embedded software
 engineer. My first project was in a mission avionics program working on
@@ -98,6 +102,12 @@ Some key tasks included:
 * Update Linux projects to build shared-object and static libraries
 * Demo hardware and software to customers
 * Coordinate with different departments to get documents prepared for conference
+
+### [Lockheed Martin](http://www.lockheedmartin.com/) - Software Intern (Jun 2010 - Aug 2010; May 2011 - Aug 2011)
+
+Developed production code for an interactive electronic technical manual for a mission-critical program. Worked alongside full-time software engineers.
+Technologies used: Java, JSP, Javascript, Oracle PL/SQL.
+Also updated ActiveX interface to the RFID SDK and provided direction to resolving ID mismatch issue.
 
 ## Interests
 
