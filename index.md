@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Jeremy Mayeres
 
 ## About Me
