@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+- 2.3.3
+script: "./script/cibuild"
+deploy:
+  provider: firebase
+  skip_cleanup: true
+  token:
+    secure: "DJ+aP62D4SrZ8DssRPcSGB+Y75MJIKHEbIPxCzqF+pXeSVYp6z02KsMY3annQFYmAggNKfP5K0fVIUGUYuC8D1tXSaHYwJoUtAspJ2Eu4CbkmquqdThcJX1mAHIF8bawuYVQFoLX5ew1TQSC4UdyXyqsv1ztPcW1yJWXNvHiSLPsMVLnir1tvPuLo+pGIox8BAuSz8I/HpltS6/7x/jafxJXwNvgvW72k4XIrNVuGthS7VvciP2LsZL2j15vsSptuCwZtzntxO46Jvom3OP3iryZyFWGTVdIDcdifFnD3GVD7FEqpMLH2vG03IDGNROrx71Nj84JowC/AC+rzQ4yn6j/AsB1crtZ1YS95gh3tYBOJjQj2Z40p7/WqYIfgOmGeNPK6JiyZ2v8e5XkerH5aQzGkLgCuex3p7muPC39Ks9t/GrG1/yJen/FBjd6mCZSoXCiMJShagt0B3Z4jyzKxFOAuMeUtG50Xkk+oO1RNjLiyoJ56HYq7mP6n12T2HJpi5m/DfaEcWXe2l6a9IYykj+dn7HRyKAfs489Q0sMAfqxpoTEv1yKoe5/xdhaOeLMi6dz18NGer1nVJwTCz23GynbPGVDLuYy7zLf4etc4UfoSEt0AYfP5dIo961mlm16K4Uqxqpb962lHoaZP29x8aFTlSQH88eE+dEW0VX8qi4=" 
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+sudo: false
