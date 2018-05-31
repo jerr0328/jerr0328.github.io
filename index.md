@@ -24,7 +24,8 @@ Additionally, I've done some smaller work with HTML/CSS, JavaScript, and Ruby.
 
 In the Python world, I've used Django (mostly Django Rest Framework) and Flask.
 For my job at Planet, I use GDAL and Numpy, and have made some minor contributions
-to the GDAL project.
+to the GDAL project. We also use Docker for building, testing, and some
+production systems as well. For CI, I mostly use Gitlab CI, Jenkins, and Travis CI.
 
 I've used Linux and Mac heavily for development, first learning Linux when I
 was in middle school. I like using the Fish shell, though I still end up having
@@ -58,8 +59,10 @@ the RapidEye data pipeline, mostly working with C++, with some Java and Python.
 In 2015, Planet acquired BlackBridge. Since then, I've worked on getting the
 RapidEye data uploaded to the cloud-based platform and processed alongside the
 PlanetScope data. In early 2017 I was promoted to squad lead for the Berlin
-Data Pipeline, leading a team of 6 developers to work on processing RapidEye,
-Sentinel, Landsat, SkySat satellite data.
+Data Pipeline, leading a team of 5 other engineers to work on processing RapidEye,
+SkySat, PlanetScope, and third party (including Sentinel and Landsat) satellite data.
+
+Core technologies being used include Python, GDAL, Numpy, and Docker.
 
 Some key tasks included:
 * Port calibration tool from Matlab to C++ to be included in processing chain
@@ -68,11 +71,13 @@ Some key tasks included:
   * Introduced chat tools for better team communication
   * Advocated for more Agile processes (including Scrum and Kanban)
 * Develop Python-based wrapper scripts that handle file-based XML messaging
-* Design system to process and upload RapidEye data via legacy processing chain
+* Design and develop system to process and upload RapidEye data via legacy processing chain
 * Support development of microservices in a Mule Java Enterprise Service Bus
-* Port services and software to Python/Django as we shifted to a Python-centric team
+* Port services and software to Python/Django as we shifted to a Python as a main language
 * Develop tool to process and upload hundreds of terabytes of RapidEye archive data to the cloud
-* Lead the development of the SkySat data processor to bring pre-processed high-resolution (<1m GSD) data to our customers for the first time
+* Lead the development of the SkySat data processor to bring pre-processed high-resolution (<1m GSD) data to our customers for the first time.
+* Improve monitoring with DataDog, SignalFx, and Sentry
+* Deliver high-quality products on schedule while maintaining existing systems
 
 ### [Harris Corporation](https://www.harris.com/) - Software Engineer Level 2 (May 2012 - July 2014)
 
