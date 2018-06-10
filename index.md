@@ -18,14 +18,14 @@ acquired by Planet. I've always been a huge space geek.
 
 ## Tech
 
-My current primary programming language is Python.
+My current primary programming language is **Python**.
 I have previous experience in C, C++, and Java.
 Additionally, I've done some smaller work with HTML/CSS, JavaScript, and Ruby.
 
-In the Python world, I've used Django (mostly Django Rest Framework) and Flask.
-For my job at Planet, I use GDAL and Numpy, and have made some minor contributions
-to the GDAL project. We also use Docker for building, testing, and some
-production systems as well. For CI, I mostly use Gitlab CI, Jenkins, and Travis CI.
+In the Python world, I've used **Django** (mostly Django Rest Framework) and Flask.
+For my job at Planet, I use **GDAL** and **Numpy**, and have made some minor contributions
+to the GDAL project. We also use **Docker** for building, testing, and some
+production systems as well. For CI, I mostly use **GitLab CI**, **Jenkins**, and Travis CI.
 
 I've used Linux and Mac heavily for development, first learning Linux when I
 was in middle school. I like using the Fish shell, though I still end up having
@@ -75,7 +75,7 @@ Some key tasks included:
 * Support development of microservices in a Mule Java Enterprise Service Bus
 * Port services and software to Python/Django as we shifted to a Python as a main language
 * Develop tool to process and upload hundreds of terabytes of RapidEye archive data to the cloud
-* Lead the development of the SkySat data processor to bring pre-processed high-resolution (<1m GSD) data to our customers for the first time.
+* Lead the development of the SkySat data processor to bring pre-processed high-resolution (\<1m GSD) data to our customers for the first time.
 * Improve monitoring with DataDog, SignalFx, and Sentry
 * Deliver high-quality products on schedule while maintaining existing systems
 
