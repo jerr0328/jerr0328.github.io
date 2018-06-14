@@ -5,16 +5,16 @@ layout: default
 
 ## About Me
 
-I'm a software engineer living in Berlin. I'm currently the Data Pipeline squad
+I'm a software engineer living in Berlin, currently working as the Data Pipeline squad
 lead at Planet. I'm originally from Belgium, although I grew up in Florida.
 I have dual United States and Belgian citizenships.
 In high school I did the International Baccalaureate and Computer Science programs.
 I then studied Computer Science at the University of Central Florida in Orlando,
 with a minor in Legal Studies. During that time, I was an intern at Lockheed
-Martin in Cape Canaveral. I graduated in May 2012 with Honors. I then worked for
+Martin in Cape Canaveral, FL. I graduated in May 2012 with Honors. I then worked for
 two years for Harris Corporation doing embedded software development before
 moving to Berlin in 2014 to work for BlackBridge. In 2015, BlackBridge was
-acquired by Planet. I've always been a huge space geek.
+acquired by Planet. As you might already notice, I've always been a huge space geek.
 
 ## Tech
 
@@ -161,7 +161,12 @@ German   | A2 Level
 * [Twitter - Jerr](https://twitter.com/Jerr)
 * [GitHub - jerr0328](https://github.com/jerr0328)
 * [LinkedIn](https://www.linkedin.com/in/jmayeres/)
+* [StackOverflow](https://stackoverflow.com/story/jeremy)
+* [Dev.to - Jerr](https://dev.to/jerr)
 * [Blogspot (outdated)](https://jeremymayeres.blogspot.de/)
+
+### Talks
+* [FOSDEM 2018 - GDAL Tips and Tricks](https://fosdem.org/2018/schedule/event/geo_gdal/) - GDAL installation, Python usage, and Cloud GeoTIFFs
 
 ### News
 * [UCF News - Junior Works on Ballistic Missile Program](https://today.ucf.edu/junior-works-on-ballistic-missile-program/)
