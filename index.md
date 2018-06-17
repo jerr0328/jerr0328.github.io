@@ -130,6 +130,7 @@ Also updated ActiveX interface to the RFID SDK and provided direction to resolvi
 
 ## Volunteering
 
+* [OpenStreetMap](https://www.openstreetmap.org/) - Contribute to OSM, including Humanitarian OpenStreetMap mapping.
 * [Berliner Tafel](https://www.berliner-tafel.de/berliner-tafel/) - Sorted unwanted food
 * [Berliner Obdachlosenhilfe](http://www.berliner-obdachlosenhilfe.de/) - Prepared and distributed food for the homeless
 * Habitat for Humanity - Helped build homes in Melbourne, FL
