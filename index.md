@@ -5,8 +5,8 @@ layout: default
 
 ## About Me
 
-I'm a software engineer living in Berlin, currently working as the Data Pipeline squad
-lead at Planet. I'm originally from Belgium, although I grew up in Florida.
+I'm a software engineer living in Berlin, currently working as a Python developer at Architrave.
+I'm originally from Belgium, although I grew up in Florida.
 I have dual United States and Belgian citizenships.
 In high school I did the International Baccalaureate and Computer Science programs.
 I then studied Computer Science at the University of Central Florida in Orlando,
@@ -14,7 +14,7 @@ with a minor in Legal Studies. During that time, I was an intern at Lockheed
 Martin in Cape Canaveral, FL. I graduated in May 2012 with Honors. I then worked for
 two years for Harris Corporation doing embedded software development before
 moving to Berlin in 2014 to work for BlackBridge. In 2015, BlackBridge was
-acquired by Planet. As you might already notice, I've always been a huge space geek.
+acquired by Planet. In November 2018, I started working for Architrave GmbH.
 
 ## Tech
 
@@ -23,13 +23,13 @@ I have previous experience in C, C++, and Java.
 Additionally, I've done some smaller work with HTML/CSS, JavaScript, and Ruby.
 
 In the Python world, I've used **Django** (mostly Django Rest Framework) and Flask.
-For my job at Planet, I use **GDAL** and **Numpy**, and have made some minor contributions
-to the GDAL project. We also use **Docker** for building, testing, and some
-production systems as well. For CI, I mostly use **GitLab CI**, **Jenkins**, and Travis CI.
+For my job at Planet, I used **GDAL** and **Numpy**, and have made some minor contributions
+to the GDAL project. We also used **Docker** for building, testing, and some
+production systems as well. For CI, I mostly use **GitLab CI**, Jenkins, and Travis CI.
 
 I've used Linux and Mac heavily for development, first learning Linux when I
-was in middle school. I like using the Fish shell, though I still end up having
-to write a lot of Bash scripts.
+was in middle school. I mainly use the Fish shell (though I still end up having
+to write a lot of Bash scripts for servers).
 
 ## Projects
 
@@ -52,7 +52,11 @@ Curating some awesome geospatial links.
 
 ## Work Experience
 
-### [Planet Labs Germany](https://www.planet.com) - Squad Lead, Senior Software Engineer (Sep 2014 - Present)
+### [Architrave](https://www.architrave.de/en/) - Python Developer (Nov 2018 - Present)
+
+In November 2018, I started at Architrave GmbH in Berlin as a Python Developer in a small team.
+
+### [Planet Labs Germany](https://www.planet.com) - Squad Lead, Senior Software Engineer (Sep 2014 - Oct 2018)
 
 I started at BlackBridge in Berlin in September 2014 as a software developer for
 the RapidEye data pipeline, mostly working with C++, with some Java and Python.
@@ -62,7 +66,7 @@ PlanetScope data. In early 2017 I was promoted to squad lead for the Berlin
 Data Pipeline, leading a team of 5 other engineers to work on processing RapidEye,
 SkySat, PlanetScope, and third party (including Sentinel and Landsat) satellite data.
 
-Core technologies being used include Python, GDAL, Numpy, and Docker.
+Core technologies used include Python, GDAL, Numpy, and Docker.
 
 Some key tasks included:
 * Port calibration tool from Matlab to C++ to be included in processing chain
