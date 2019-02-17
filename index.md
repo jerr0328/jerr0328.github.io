@@ -22,10 +22,11 @@ My current primary programming language is **Python**.
 I have previous experience in C, C++, and Java.
 Additionally, I've done some smaller work with HTML/CSS, JavaScript, and Ruby.
 
-In the Python world, I've used **Django** (mostly Django Rest Framework) and Flask.
+In the Python world, I've used **Django** (mostly Django Rest Framework) and Flask for REST APIs, and **Celery** for distributed processing.
 For my job at Planet, I used **GDAL** and **Numpy**, and have made some minor contributions
-to the GDAL project. We also used **Docker** for building, testing, and some
-production systems as well. For CI, I mostly use **GitLab CI**, Jenkins, and Travis CI.
+to the GDAL project.
+
+In terms of DevOps, I use **Docker** for building, testing, and production deployments, with **Kubernetes** handling the container orchestration. For CI, I use Infrabox, GitLab CI, Jenkins, and Travis CI.
 
 I've used Linux and Mac heavily for development, first learning Linux when I
 was in middle school. I mainly use the Fish shell (though I still end up having
@@ -52,9 +53,9 @@ Curating some awesome geospatial links.
 
 ## Work Experience
 
-### [Architrave](https://www.architrave.de/en/) - Python Developer (Nov 2018 - Present)
+### [Architrave](https://www.architrave.de/en/) - Software Developer (Nov 2018 - Present)
 
-In November 2018, I started at Architrave GmbH in Berlin as a Python Developer in a small team.
+In November 2018, I started at Architrave GmbH in Berlin as a Python Software Developer in a small team. I mainly work with Python 3 using Celery, with deployments using Docker and Kubernetes. In addition, I set up the CI system (Infrabox) on our Kubernetes infrastructure. 
 
 ### [Planet Labs Germany](https://www.planet.com) - Squad Lead, Senior Software Engineer (Sep 2014 - Oct 2018)
 
