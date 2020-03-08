@@ -51,8 +51,10 @@ In November 2018, I started at Architrave GmbH in Berlin as a Python Software De
 I mainly work with Python 3 using Celery, with deployments using Docker and Kubernetes.
 I set up the CI system (Infrabox) on our Kubernetes infrastructure as an initial solution until Github Actions became available.
 I am a member of the Site Reliability Chapter, responsible for maintaining reliability, availability, and delivery of our services.
+
 In 2020, I was a founding member of a new team, where I have set up the projects using Terraform on AWS, including the setup of a Kubernetes cluster there, with automatic, continuous deployments for staging.
-Working in a cross-functional team, I supporti not only the infrastructure but also doing development in our Python 3/Django application but also supporting QA testing infrastructure, defining coding standards for Python (relying on tooling), and also contributing changes to frontend code when necessary.
+Working in a cross-functional team, I support not only the infrastructure but also doing development in our Python 3/Django application but also supporting QA testing infrastructure, defining coding standards for Python (relying on tooling), and also contributing changes to frontend code when necessary.
+
 At Architrave, we have a concept of "XP Days" (Experience Days), where once a month everyone in the engineering team can pitch ideas and work on them in teams of their choice. I have been the lead for the Table Tennis Scoreboard project, which keeps track of our daily table tennis matches at the company and provides a leaderboard.
 The project is in Python 3 and Django (with Django Rest Framework), and interacts with Slack using the Slack API and Slash commmands. The following Monday, the results are presented at the company all-hands in short, 5 minute presentation and demo.
 
