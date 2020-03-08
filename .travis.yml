@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- 2.5
+- 2.6
 script: "./script/cibuild"
 cache:
   bundler: true
@@ -10,12 +10,6 @@ addons:
   apt:
     packages:
     - libcurl4-openssl-dev # required to avoid SSL errors
-deploy:
-  provider: firebase
-  edge: true
-  skip_cleanup: true
-  token:
-    secure: "hSAXcfnzNJArk9TJiZlbSNSMqr9gHHgSOfEMtQy7X5x1a7FG7g4tpHny+eLZhAFQbRrsOl5mRLH58VEv3ZsbalLw6HRr+A9TVQgUdOfr0mrTksn32fCe9m9kfqL6CzZB6jaUFh6FgbmBQWZ265OWri/sn2M0QkWODTirnS3R1yTLKFLmV8yAhevFUXyZiDYxZ6uHSIXx8YH77ikX8tfYSl2Jcugk8gUMa3If4fiLUGxhlDaYJxIbcBqwOMgcj5S3fsNt++kDcqiWEIrFO54yezDdBDl82K4aDl1BHFqZYaY+UW0qxFShOnyVbStCpbrx9eLCuDhbJmmhV3mki12gJUm496ibByW4mCOc3igT83PQOvHCbMSHZujyW/+Quuq/dhYDRW2mIbV8wiqqx2ENFcWoYVuj9U4Vjyijt+BbeYN2r98V+sY0XxxP4GVmh8fdwoZFkLDyPVBkFIkBEZyDNsZ358Re5LP4xEr39TDPVD7svHbkZVlU2+fFa+Rf0WoVWOt2y0CsNlpmRKh9aG+zuQTLimaz6cN5AMtacXO5dUigaNgAM0iihIGvRn1rwgstzO0Nq7XofvOL3VtxaWg9d83Px3dDohzTq8X8+VRxPJ78Yi9AJ/3zdHi3jT3T0wymKk8z2Mz4/zUox/ePw7L8OjB37uWQbNEgxUTC36FBit4="
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
