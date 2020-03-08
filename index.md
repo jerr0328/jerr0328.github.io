@@ -22,11 +22,13 @@ My current primary programming language is **Python**.
 I have previous experience in C, C++, and Java.
 Additionally, I've done some smaller work with HTML/CSS, JavaScript, and Ruby.
 
-In the Python world, I've used **Django** (mostly Django Rest Framework) and Flask for REST APIs, and **Celery** for distributed processing.
+In the Python world, I use **Django** (mostly with Django Rest Framework), Flask, and FastAPI for REST APIs, and **Celery** for distributed processing of tasks.
 For my job at Planet, I used **GDAL** and **Numpy**, and have made some minor contributions
 to the GDAL project.
 
-In terms of DevOps, I use **Docker** for building, testing, and production deployments, with **Kubernetes** handling the container orchestration. For CI, I use Infrabox, GitLab CI, Jenkins, and Travis CI.
+In terms of DevOps and Site Reliability Engineering, I use **Docker** for building, testing, and production deployments, with **Kubernetes** handling the container orchestration.
+Infrastructure is kept in code with **Terraform**, and Kubernetes applications are deployed using Helm. I am currently using mostly **AWS**, although I also have previous experience with **Google Cloud Platform** and other Infrastructure as a Service providers.
+For CI, I primarily use GitHub Actions, and previously used Infrabox, GitLab CI, Jenkins, and Travis CI.
 
 I've used Linux and Mac heavily for development, first learning Linux when I
 was in middle school. I mainly use the Fish shell (though I still end up having
@@ -39,23 +41,20 @@ to write a lot of Bash scripts for servers).
 I made [isitsnowinginberlin.de](http://isitsnowinginberlin.de) as a side project
 to experiment with Node.js and play with deploying something to Heroku. It uses
 Redis to cache the weather data, with the data coming from OpenWeatherMap. In
-2017 I rewrote the app in Python using Flask.
-
-### [Planet Gallery Grabber](https://github.com/jerr0328/pl-gallery-grabber)
-
-I wrote a small Python program to get the latest images from the
-[Planet gallery](https://www.planet.com/gallery/). This is very useful for
-populating a folder of desktop background images.
-
-### [Awesome Geospatial List](https://github.com/jerr0328/awesome-geospatial-list)
-
-Curating some awesome geospatial links.
+2017 I rewrote the app in Python using Flask. I also changed the API source to Dark Sky, and experimented with having the app run using serverless functions.
 
 ## Work Experience
 
-### [Architrave](https://www.architrave.de/en/) - Software Developer (Nov 2018 - Present)
+### [Architrave](https://www.architrave.de/en/) - Senior Software Engineer (Nov 2018 - Present)
 
-In November 2018, I started at Architrave GmbH in Berlin as a Python Software Developer in a small team. I mainly work with Python 3 using Celery, with deployments using Docker and Kubernetes. In addition, I set up the CI system (Infrabox) on our Kubernetes infrastructure. 
+In November 2018, I started at Architrave GmbH in Berlin as a Python Software Developer in a small team.
+I mainly work with Python 3 using Celery, with deployments using Docker and Kubernetes.
+I set up the CI system (Infrabox) on our Kubernetes infrastructure as an initial solution until Github Actions became available.
+I am a member of the Site Reliability Chapter, responsible for maintaining reliability, availability, and delivery of our services.
+In 2020, I was a founding member of a new team, where I have set up the projects using Terraform on AWS, including the setup of a Kubernetes cluster there, with automatic, continuous deployments for staging.
+Working in a cross-functional team, I supporti not only the infrastructure but also doing development in our Python 3/Django application but also supporting QA testing infrastructure, defining coding standards for Python (relying on tooling), and also contributing changes to frontend code when necessary.
+At Architrave, we have a concept of "XP Days" (Experience Days), where once a month everyone in the engineering team can pitch ideas and work on them in teams of their choice. I have been the lead for the Table Tennis Scoreboard project, which keeps track of our daily table tennis matches at the company and provides a leaderboard.
+The project is in Python 3 and Django (with Django Rest Framework), and interacts with Slack using the Slack API and Slash commmands. The following Monday, the results are presented at the company all-hands in short, 5 minute presentation and demo.
 
 ### [Planet Labs Germany](https://www.planet.com) - Squad Lead, Senior Software Engineer (Sep 2014 - Oct 2018)
 
@@ -131,7 +130,9 @@ Also updated ActiveX interface to the RFID SDK and provided direction to resolvi
 * Avionics - Running ADS-B receiver to feed data into FlightAware.
 * Spaceflight - Besides working for the largest private operator of satellites, I attended many launches in Florida and had semi-private tours of space launch facilities at Cape Canaveral/Kennedy Space Center.
 * Digital Forensics - Took Master-level class in Digital Forensics at UCF, took Cybersecurity specialization on Coursera.
-* Martial Arts - Practiced martial arts in middle and high school. Resumed in summer 2017 by attending Taekwon-Do classes in Berlin.
+* Martial Arts - Practiced martial arts in middle and high school. From 2017-2018 I attended Taekwon-Do classes in Berlin.
+* Mobility - I am interested in railways, aviation, and new forms of urban mobility with carsharing, scooter and bike sharing. I have my own bike and am interested in eBikes, cargo bikes, and how cities can adapt and change to improve the quality of life.
+
 
 ## Volunteering
 
