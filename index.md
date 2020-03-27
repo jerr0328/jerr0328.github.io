@@ -49,10 +49,12 @@ Redis to cache the weather data, with the data coming from OpenWeatherMap. In
 
 In November 2018, I started at Architrave GmbH in Berlin as a Python Software Developer in a small team.
 I mainly work with Python 3 using Celery, with deployments using Docker and Kubernetes.
+One of my largest projects involved me designing and developing a system to OCR, classify, and extract data from PDFs. During this time I also helped colleagues improve their Python and Kubernetes skills.
 I set up the CI system (Infrabox) on our Kubernetes infrastructure as an initial solution until Github Actions became available.
 I am a member of the Site Reliability Chapter, responsible for maintaining reliability, availability, and delivery of our services.
+My involvement includes designing a platform for engineering teams to use, as well as researching the right tools to help solve our problems.
 
-In 2020, I was a founding member of a new team, where I have set up the projects using Terraform on AWS, including the setup of a Kubernetes cluster there, with automatic, continuous deployments for staging.
+In 2020, I was a founding member of a new team, where I have set up the projects using Terraform on AWS, including the setup of a Kubernetes cluster there, with automatic, continuous deployments for development and staging environments.
 Working in a cross-functional team, I support not only the infrastructure but also doing development in our Python 3/Django application but also supporting QA testing infrastructure, defining coding standards for Python (relying on tooling), and also contributing changes to frontend code when necessary.
 
 At Architrave, we have a concept of "XP Days" (Experience Days), where once a month everyone in the engineering team can pitch ideas and work on them in teams of their choice. I have been the lead for the Table Tennis Scoreboard project, which keeps track of our daily table tennis matches at the company and provides a leaderboard.
