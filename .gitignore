@@ -6,6 +6,7 @@
 .bundle/
 .byebug_history
 .jekyll-metadata
+.jekyll-cache
 .ruby-gemset
 .ruby-version
 .sass-cache
@@ -21,4 +22,3 @@ pkg/
 site/_site/
 test/dest
 tmp/*
-
