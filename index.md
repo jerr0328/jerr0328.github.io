@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-I'm a software engineer living in Berlin, currently working as a Python developer at Architrave.
+I'm a software engineer living in Finland, currently working as a Python developer at Iceye.
 I'm originally from Belgium, although I grew up in Florida.
 I have dual United States and Belgian citizenships.
 In high school I did the International Baccalaureate and Computer Science programs.
@@ -15,6 +15,8 @@ Martin in Cape Canaveral, FL. I graduated in May 2012 with Honors. I then worked
 two years for Harris Corporation doing embedded software development before
 moving to Berlin in 2014 to work for BlackBridge. In 2015, BlackBridge was
 acquired by Planet. In November 2018, I started working for Architrave GmbH.
+In October 2020, I started working remotely for Iceye before moving to Finland
+in April 2021.
 
 ## Tech
 
@@ -45,7 +47,14 @@ Redis to cache the weather data, with the data coming from OpenWeatherMap. In
 
 ## Work Experience
 
-### [Architrave](https://www.architrave.de/en/) - Senior Software Engineer (Nov 2018 - Present)
+### [Iceye](https://www.iceye.com/) - Senior Software Engineer (Oct 2020 - Present)
+
+Working since October 2020 for Iceye, a Finnish SAR satellite company. I am working on the mission control software,
+doing backend development as well as supporting the DevOps culture with improvements to our GitHub Actions,
+Kubernetes deployment workflows (including setting up Helm charts for our various components), and improving
+the logging and monitoring.
+
+### [Architrave](https://www.architrave.de/en/) - Senior Software Engineer (Nov 2018 - Sep 2020)
 
 In November 2018, I started at Architrave GmbH in Berlin as a Python Software Developer in a small team.
 I mainly work with Python 3 using Celery, with deployments using Docker and Kubernetes.
@@ -165,6 +174,7 @@ Language | Proficiency
 English  | Fluent
 French   | Fluent
 German   | A2 Level
+Finnish  | A1 Level
 
 ## Links
 
