@@ -179,6 +179,7 @@ Finnish  | A1 Level
 ## Links
 
 ### Connect
+* <a rel="me" href="https://mastodon.social/@jerr0328">Mastodon</a>
 * [Twitter - Jerr](https://twitter.com/Jerr)
 * [GitHub - jerr0328](https://github.com/jerr0328)
 * [LinkedIn](https://www.linkedin.com/in/jmayeres/)
