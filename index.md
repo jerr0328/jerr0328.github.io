@@ -40,10 +40,10 @@ to write a lot of Bash scripts for servers).
 
 ### [Is it Snowing in Berlin](https://github.com/jerr0328/isitsnowinginberlin)
 
-I made [isitsnowinginberlin.de](http://isitsnowinginberlin.de) as a side project
+I made isitsnowinginberlin.de as a side project
 to experiment with Node.js and play with deploying something to Heroku. It uses
 Redis to cache the weather data, with the data coming from OpenWeatherMap. In
-2017 I rewrote the app in Python using Flask. I also changed the API source to Dark Sky, and experimented with having the app run using serverless functions.
+2017 I rewrote the app in Python using Flask. I also changed the API source to Dark Sky, and experimented with having the app run using serverless functions. The site is no longer up as I don't live in Berlin anymore and Heroku is no longer free.
 
 ## Work Experience
 
@@ -129,7 +129,7 @@ Some key tasks included:
 * Demo hardware and software to customers
 * Coordinate with different departments to get documents prepared for conference
 
-### [Lockheed Martin](http://www.lockheedmartin.com/) - Software Intern (Jun 2010 - Aug 2010; May 2011 - Aug 2011)
+### [Lockheed Martin](https://www.lockheedmartin.com/) - Software Intern (Jun 2010 - Aug 2010; May 2011 - Aug 2011)
 
 Developed production code for an interactive electronic technical manual for a mission-critical program. Worked alongside full-time software engineers.
 Technologies used: Java, JSP, Javascript, Oracle PL/SQL.
