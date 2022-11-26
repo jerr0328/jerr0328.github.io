@@ -151,7 +151,7 @@ Also updated ActiveX interface to the RFID SDK and provided direction to resolvi
 
 * [OpenStreetMap](https://www.openstreetmap.org/) - Contribute to OSM, including Humanitarian OpenStreetMap mapping.
 * [Berliner Tafel](https://www.berliner-tafel.de/berliner-tafel/) - Sorted unwanted food
-* [Berliner Obdachlosenhilfe](http://www.berliner-obdachlosenhilfe.de/) - Prepared and distributed food for the homeless
+* [Berliner Obdachlosenhilfe](https://www.berliner-obdachlosenhilfe.de/) - Prepared and distributed food for the homeless
 * Habitat for Humanity - Helped build homes in Melbourne, FL
 * Harris High School Design Challenge - Get students involved with Science, Technology, Engineering, and Math (STEM) in local high schools. The design challenge consists of teams of high school students creating a mobile application to solve certain challenges. My responsibilities included updating the Android framework, judging preliminary presentations by the students, and being a "dispatcher" during the actual competition.
 
@@ -183,7 +183,7 @@ Finnish  | A1 Level
 * [Twitter - Jerr](https://twitter.com/Jerr)
 * [GitHub - jerr0328](https://github.com/jerr0328)
 * [LinkedIn](https://www.linkedin.com/in/jmayeres/)
-* [StackOverflow](https://stackoverflow.com/story/jeremy)
+* [StackOverflow](https://stackoverflow.com/users/375530/jerr)
 * [Dev.to - Jerr](https://dev.to/jerr)
 * [Blogspot (outdated)](https://jeremymayeres.blogspot.de/)
 
