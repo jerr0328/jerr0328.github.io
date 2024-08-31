@@ -82,6 +82,7 @@ SkySat, PlanetScope, and third party (including Sentinel and Landsat) satellite 
 Core technologies used include Python, GDAL, Numpy, and Docker.
 
 Some key tasks included:
+
 * Port calibration tool from Matlab to C++ to be included in processing chain
 * Introduced tools and processes into the team workflow:
   * Encouraged use of Wikis for documentation by creating the first Confluence pages
@@ -107,6 +108,7 @@ run on VxWorks (6.x, MILS) and Linux. I received multiple internal awards for
 this effort.
 
 Some key tasks included:
+
 * Developing Built-In-Test (BIT) aggregator and web server
 * Integration of Commercial Off-The-Shelf (COTS) and internally-developed hardware
 * Port IPv6 conformance suite to Linux to support critical milestone
@@ -146,7 +148,6 @@ Also updated ActiveX interface to the RFID SDK and provided direction to resolvi
 * Martial Arts - Practiced martial arts in middle and high school. From 2017-2018 I attended Taekwon-Do classes in Berlin.
 * Mobility - I am interested in railways, aviation, and new forms of urban mobility with carsharing, scooter and bike sharing. I have my own bike and am interested in eBikes, cargo bikes, and how cities can adapt and change to improve the quality of life.
 
-
 ## Volunteering
 
 * [OpenStreetMap](https://www.openstreetmap.org/) - Contribute to OSM, including Humanitarian OpenStreetMap mapping.
@@ -158,11 +159,13 @@ Also updated ActiveX interface to the RFID SDK and provided direction to resolvi
 ## Education
 
 ### University of Central Florida
+
 _August 2008 - May 2012 in Orlando, FL_
 
 Graduated with Bachelor of Science in Computer Science, Magna Cum Laude with University Honors, from Burnett Honors College with Legal Studies minor. GPA: 3.9/4.0
 
 ### Suncoast Community High School
+
 _August 2004 - May 2008 in Riviera Beach, FL_
 
 Attended in Computer Science and International Baccalaureate programs. Took AP, IB, and college-level courses. Placed 1st in Palm Beach County Programming Competition Team.
@@ -179,6 +182,7 @@ Finnish  | A1 Level
 ## Links
 
 ### Connect
+
 * <a rel="me" href="https://mastodon.social/@jerr0328">Mastodon</a>
 * [Twitter - Jerr](https://twitter.com/Jerr)
 * [GitHub - jerr0328](https://github.com/jerr0328)
@@ -188,7 +192,9 @@ Finnish  | A1 Level
 * [Blogspot (outdated)](https://jeremymayeres.blogspot.de/)
 
 ### Talks
+
 * [FOSDEM 2018 - GDAL Tips and Tricks](https://fosdem.org/2018/schedule/event/geo_gdal/) - GDAL installation, Python usage, and Cloud GeoTIFFs
 
 ### News
+
 * [UCF News - Junior Works on Ballistic Missile Program](https://today.ucf.edu/junior-works-on-ballistic-missile-program/)
