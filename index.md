@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-I'm a software engineer living in Finland, currently working as a Python developer at Iceye.
+I'm a software engineer living in Finland, currently working as a Staff Engineer at Iceye.
 I'm originally from Belgium, although I grew up in Florida.
 I have dual United States and Belgian citizenships.
 In high school I did the International Baccalaureate and Computer Science programs.
@@ -47,7 +47,7 @@ Redis to cache the weather data, with the data coming from OpenWeatherMap. In
 
 ## Work Experience
 
-### [Iceye](https://www.iceye.com/) - Senior Software Engineer (Oct 2020 - Present)
+### [Iceye](https://www.iceye.com/) - Staff Software Engineer (Oct 2020 - Present)
 
 Working since October 2020 for Iceye, a Finnish SAR satellite company. I am working on the mission control software,
 doing backend development as well as supporting the DevOps culture with improvements to our GitHub Actions,
@@ -184,7 +184,6 @@ Finnish  | A1 Level
 ### Connect
 
 * <a rel="me" href="https://mastodon.social/@jerr0328">Mastodon</a>
-* [Twitter - Jerr](https://twitter.com/Jerr)
 * [GitHub - jerr0328](https://github.com/jerr0328)
 * [LinkedIn](https://www.linkedin.com/in/jmayeres/)
 * [StackOverflow](https://stackoverflow.com/users/375530/jerr)
